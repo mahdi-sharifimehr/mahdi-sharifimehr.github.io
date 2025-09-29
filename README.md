@@ -1,4 +1,4 @@
-# Mash Production – Workout Music Apps 🔥
+# Mash Production
 
 Welcome to the official developer site for **Mash Production**.
 
